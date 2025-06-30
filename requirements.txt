@@ -4,4 +4,7 @@ matplotlib
 seaborn
 plotly
 openpyxl
-
+mysql-connector-python
+streamlit-option-menu
+streamlit-card
+streamlit-lottie
